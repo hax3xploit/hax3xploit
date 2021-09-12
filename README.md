@@ -1,9 +1,30 @@
-<img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
+<p align="center">
+  <br>
+  <samp>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="http://kh4waja.me">Tan</a></b>.
+    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
 
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="20vw" /> I’m currently working on my [laptop](http://kh4waja.me/)?
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning how to annoy people with number of [![HitCount](http://hits.dwyl.com/deut-erium/deut-erium.svg)](http://hits.dwyl.com/deut-erium/deut-erium)
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/headbang.gif?raw=1" width="20vw" /> I’m looking to collaborate on weird ideas that would be least helpful.
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="20vw" /> I’m looking for help with looking serious in README
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" width="20vw" /> Ask me about why having wheels on laptop is a bad idea
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" width="20vw" /> Pronouns: [recursion](https://github.com/hax3xploit/)
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/coin.gif?raw=1" width="20vw" /> Fun fact: you had a good bad time 
+</samp>
+
+  <img src="https://64.media.tumblr.com/9999f372d031bbc60499d6dd93b1ccc4/tumblr_okq34s9rQ81tgzy56o1_1280.gifv" width="200"/>
+
+</p>
+
+
+<details align="center">
+
+<summary> <b> <samp> Light bonfire </samp></b></summary>
+<samp>
+ <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
+
+<img src="https://i.ibb.co/6vH28j2/sword.gif" width="200"/>
+
+
+
+</samp>
+</details>
+
+----
+Credits: [Kh4waja](https://github.com/hax3xploit)
+
+Last Edited on: 12/09/2021
