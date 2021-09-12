@@ -1,12 +1,12 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="http://kh4waja.me">Tan</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="http://kh4waja.me">Abdullah</a></b>.
     <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
 
 </samp>
 
-  <img src="https://64.media.tumblr.com/9999f372d031bbc60499d6dd93b1ccc4/tumblr_okq34s9rQ81tgzy56o1_1280.gifv" width="200"/>
+  <img src="https://64.media.tumblr.com/9999f372d031bbc60499d6dd93b1ccc4/tumblr_okq34s9rQ81tgzy56o1_1280.gifv"/>
 
 </p>
 
